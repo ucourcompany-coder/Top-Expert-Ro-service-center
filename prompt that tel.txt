@@ -1,0 +1,146 @@
+﻿"prompt that tells an AI to generate SEO-optimized content with the best chance of ranking highly on Google, here's a strong template.
+SEO Master Prompt
+"Act as a world-class SEO strategist, content writer, and Google Search quality expert with expertise in EEAT (Experience, Expertise, Authoritativeness, and Trustworthiness). Create a comprehensive, original, and human-written article optimized to rank on the first page of Google for the keyword: [PRIMARY KEYWORD].
+Requirements:
+Analyze the search intent (informational, commercial, transactional, or navigational).
+Create an SEO-friendly title (under 60 characters).
+Write a compelling meta description (150–160 characters).
+Generate a clean URL slug.
+Include one H1, optimized H2s, H3s, and H4s where appropriate.
+Naturally include the primary keyword in the title, first paragraph, headings, conclusion, and throughout the content without keyword stuffing.
+Include 20–50 semantically related keywords and entities.
+Answer all common user questions and include an FAQ section.
+Provide unique insights, examples, statistics (with sources where applicable), and actionable advice.
+Optimize for Google's EEAT guidelines.
+Use short paragraphs, bullet points, numbered lists, and tables where appropriate.
+Add internal linking suggestions.
+Suggest authoritative external sources to reference.
+Include schema markup recommendations (FAQ, Article, HowTo, or Product where applicable).
+Optimize for featured snippets and People Also Ask questions.
+Write in a conversational, engaging tone suitable for humans, not search engines.
+Ensure originality and avoid duplicate content.
+End with a strong call to action.
+Provide image suggestions with descriptive alt text.
+Recommend title tag, meta title, Open Graph title, Twitter title, and image filenames.
+Suggest improvements for Core Web Vitals, page speed, mobile optimization, and accessibility.
+Produce at least 2,500–4,000 words if the topic requires comprehensive coverage.
+Format the output in Markdown."
+Important note
+No prompt can guarantee a #1 ranking on Google. Rankings depend on many factors beyond the content itself, including:
+Search intent alignment
+Website authority and backlinks
+Technical SEO
+Page speed and Core Web Vitals
+Internal linking
+Content quality and originality
+Competition
+User engagement and freshness of content
+A great prompt can help produce high-quality, SEO-friendly content, but ranking #1 always depends on how Google evaluates the page relative to competing content.
+"Create a complete, premium, mobile-first, SEO-optimized website on top rank on google for my Indian home services company named
+And use ai generated indian technician and ro purifier images "Top Expert Ro service center" This must be a completely original brand with its own unique logo, color palette, layout, graphics, icons, illustrations, and user interface. but insert indian ai images imitate the branding, logo, design, layout, content, or copyrighted elements of any existing company.
+Business Focus: "Top Expert Ro services uc our company"is an Indian home services platform specializing in:
+RO Water Purifier Installation
+RO Repair
+RO AMC (Annual Maintenance)
+RO Filter Replacement
+Water Purifier Sales
+Emergency RO Service. 
+Home Water Solutions. 
+Brand Identity:
+Company Name: "Top Expert Ro service center"
+Create a premium, modern logo using a blue water droplet, shield, and wrench with a clean professional font.
+Theme colors: Blue, White, Teal, and Light Gray.
+Premium modern UI with smooth animations.
+Responsive design for mobile, tablet, and desktop.
+AI Images: Generate realistic AI images of:
+Professional Indian RO technicians in branded blue uniforms servicing water purifiers.
+Premium RO water purifiers installed in modern Indian kitchens.
+Happy Indian families drinking purified water.
+RO repair. 
+RO spare parts and filters.
+Customer service representatives.
+A cute call center girl image ai generated indian. 
+Website Pages:
+1.Home
+2.About Us
+3.Services
+RO Repair
+RO Installation
+AMC Plans
+Water Purifier Sales
+Book Technician
+Pricing
+4.Reviews
+Blog
+FAQ
+Contact
+Privacy Policy
+Terms & Conditions
+Refund Policy
+Home Page Features:
+Premium hero section
+Book Service Now button
+Same-Day Service
+Certified Technicians
+Genuine Spare Parts
+Affordable Pricing
+Warranty
+Trusted by Customers
+Why Choose "Top Expert Ro Services"
+Customer Reviews
+Before & After Images
+FAQ
+Call-to-Action sections
+Booking Form:
+Customer Name
+Mobile Number
+Address
+City
+PIN Code
+Service Type
+Preferred Date
+Preferred Time
+Submit Button
+Contact Information:
+Phone Number: 9703663522
+Add Call Now button using this phone number.
+Add WhatsApp chat button linked to this phone number 9703663522.
+Payments: Design a secure  checkout page with support for UPI, cards, net banking, and wallets. Include placeholders for payment gateway integration. Configure the payment gateway later using my own merchant account credentials inside the website settings.
+SEO Optimization:
+SEO-friendly URLs
+Fast loading pages
+Structured data (Schema.org)
+XML Sitemap
+Robots.txt
+Optimized headings (H1–H3)
+Internal linking
+Image alt text
+Meta titles and descriptions
+Core Web Vitals optimization
+Local SEO sections
+Service area pages
+Blog optimized for keywords including:
+RO Service Near Me
+RO Repair
+Water Purifier Service
+RO Installation
+RO AMC
+Water Filter Repair
+Best RO Technician
+Create high-quality, original content designed to follow SEO best practices. Do not claim or promise a #1 Google ranking.
+Additional Features:
+Google Maps placeholder
+#1 Google ranking.
+Customer testimonials
+Star ratings
+Service area coverage
+Social media icons
+Sticky navigation
+Floating WhatsApp button
+Floating Call button
+Modern footer
+SSL-ready design
+Contact forms
+Newsletter signup
+Generate all original website text, logo, icons, graphics, AI images, page designs, and layouts automatically. Deliver a complete, professional, production-ready website ready for publishing in Github with responsive design and clean code. Do exat designs, branding, or content from existing companies.
+Keep in mind that Github can automatically publish a fully functional marketplace with live payment processing. It can generate the website and visuals, but you'll still need to connect a domain, configure your payment gateway with your own merchant account, and publish the site through this site."
